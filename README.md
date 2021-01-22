@@ -45,4 +45,4 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/patrick-o-connor
+[linkedin]: https://www.linkedin.com/in/patrick-o-connor-70bb7616a/
