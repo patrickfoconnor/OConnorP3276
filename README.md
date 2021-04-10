@@ -2,10 +2,9 @@
 
 ## I'm a Student, Developer, and Outdoor Enthusiast!!
 
-- 🌱 I’m currently learning Computer Security, C, and vim
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Complete Plant Monitoring Application
-- ⚡ Fun fact: I love to Fish and Woodwork
+- 🌱  I’m currently learning Computer Security, C, and vim
+- 🥅  2021 Goals: Complete Plant Monitoring Application
+- ⚡   Fun fact: I love to Fish and Woodwork
 
 
 ### Connect with me:
@@ -22,28 +21,6 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 
 
----
 
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Patrick's GitHub Stats" src="github-readme-stats-eight-psi.vercel.app
-/api?username=OConnorP3276&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/patrick-o-connor-70bb7616a/
