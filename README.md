@@ -4,9 +4,9 @@
 
 -   I’m currently learning Computer Security, C, and vim
 -   2021 Goals: 
-    -     Work on increasing network knowledge through Creating a Network Monitoring Application
-    -     Increase my debugging skills
-    -     Gain Comptia A+ certification
+    - Work on increasing network knowledge through Creating a Network Monitoring Application
+    - Increase my debugging skills
+    - Gain Comptia A+ certification
 -   Fun fact: I love to Fish and Woodwork
 
 
