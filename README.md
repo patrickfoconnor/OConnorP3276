@@ -2,9 +2,12 @@
 
 ## I'm a Student, Developer, and Outdoor Enthusiast!!
 
-- 🌱  I’m currently learning Computer Security, C, and vim
-- 🥅  2021 Goals: Work on increasing network knowledge through Creating a Network Monitoring Application
-- ⚡   Fun fact: I love to Fish and Woodwork
+-   I’m currently learning Computer Security, C, and vim
+-   2021 Goals: 
+    -     Work on increasing network knowledge through Creating a Network Monitoring Application
+    -     Increase my debugging skills
+    -     Gain Comptia A+ certification
+-   Fun fact: I love to Fish and Woodwork
 
 
 ### Connect with me:
