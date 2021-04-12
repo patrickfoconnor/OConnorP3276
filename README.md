@@ -1,4 +1,4 @@
-#  ### Hi there, I'm Pat - aka [OConnorP3276] 👋
+#  ### Hi there, I'm Patrick 👋
 
 ## I'm a Student, Developer, and Outdoor Enthusiast!!
 
