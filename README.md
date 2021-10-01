@@ -1,6 +1,6 @@
 Patrick O'Connor, Computer Science Student at Montana State University
 
-Passionate to education, and advocate clean code.
+Passionate about solidfying my programming profiency and aspire to write clean code.
 
 In the process of getting involved in open source projects
 
