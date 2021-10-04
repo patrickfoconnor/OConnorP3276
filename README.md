@@ -1,6 +1,6 @@
 Patrick O'Connor, Computer Science Student at Montana State University
 
-Passionate about pursing a proffesional career in which I can merge my love for programming and sustainable practices. 
+Passionate about pursing a professional career in which I can merge my love for programming and sustainable practices. 
 
 In the process of getting involved in open source projects
 
