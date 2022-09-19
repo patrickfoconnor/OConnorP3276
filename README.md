@@ -1,8 +1,9 @@
-Patrick O'Connor, Computer Science Student at Montana State University
+Patrick O'Connor, Computer Science Professional at HCSC
+
+Recent honors computer science graduate from Montana State University - Bozeman
 
 Passionate about pursing a professional career in which I can merge my love for programming and sustainable practices. 
 
-In the process of getting involved in open source projects
 
 [![PatOConnor’s GitHub](https://img.shields.io/github/followers/patrickfoconnor?label=follow&style=social)](https://github.com/patrickfoconnor)
 [![All Commits](https://badges.pufler.dev/commits/all/patrickfoconnor?style=social)](https://badges.pufler.dev)
