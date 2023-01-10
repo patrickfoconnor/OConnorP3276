@@ -12,6 +12,6 @@
 
 More to come in the near future
 
-## Project Spotlight
+#### Project Spotlight
 
-### Past Projects
+#### Past Projects
